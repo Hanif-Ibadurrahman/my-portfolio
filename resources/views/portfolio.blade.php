@@ -334,7 +334,7 @@
                                 </div>
                                 <div class="carousel-item">
                                     <div class="videocontainer">
-                                        <video id="video" class="responsive-video" controls poster="{{asset('assets/img/projects/project-1.jpg')}}">
+                                        <video id="video" class="responsive-video" controls poster="{{asset('assets/img/projects/cover.png')}}">
                                             <source src="{{asset('assets/img/projects/video.mp4')}}" type="video/mp4" alt="slide 4">
                                        </video>
                                     </div>
