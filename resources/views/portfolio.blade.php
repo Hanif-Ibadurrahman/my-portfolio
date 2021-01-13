@@ -25,7 +25,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="{{asset('assets/img/projects/website-peminjaman.jpg.')}}" alt="Website Project" />
+                        <img src="{{asset('assets/img/projects/website-peminjaman.jpg')}}" alt="Website Project" />
                         <div><span>Website Project</span></div>
                     </figure>
                 </li>
@@ -33,7 +33,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="{{asset('assets/img/projects/website-monitoring-listrik1.jpg.')}}" alt="Website Project" />
+                        <img src="{{asset('assets/img/projects/website-monitoring-listrik1.jpg')}}" alt="Website Project" />
                         <div><span>Website Project</span></div>
                     </figure>
                 </li>
@@ -41,7 +41,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="{{asset('assets/img/projects/website-monitoring-bahan-bakar1.jpg.')}}" alt="Website Project" />
+                        <img src="{{asset('assets/img/projects/website-monitoring-bahan-bakar1.jpg')}}" alt="Website Project" />
                         <div><span>Website Project</span></div>
                     </figure>
                 </li>
@@ -49,7 +49,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="{{asset('assets/img/projects/nodemcu-relay-doorlock.jpg.')}}" alt="IoT Project" />
+                        <img src="{{asset('assets/img/projects/nodemcu-relay-doorlock.jpg')}}" alt="IoT Project" />
                         <div><span>IoT Project</span></div>
                     </figure>
                 </li>
@@ -57,7 +57,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="{{asset('assets/img/projects/gas-1.jpg.')}}" alt="IoT Project" />
+                        <img src="{{asset('assets/img/projects/gas-1.jpg')}}" alt="IoT Project" />
                         <div><span>IoT Project</span></div>
                     </figure>
                 </li>
@@ -65,7 +65,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="{{asset('assets/img/projects/rip.png.')}}" alt="Dinamic Routing Design" />
+                        <img src="{{asset('assets/img/projects/rip.png')}}" alt="Dinamic Routing Design" />
                         <div><span>Dinamic Routing Design</span></div>
                     </figure>
                 </li>
@@ -73,7 +73,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="{{asset('assets/img/projects/statik1.png.')}}" alt="Static Routing Design" />
+                        <img src="{{asset('assets/img/projects/statik1.png')}}" alt="Static Routing Design" />
                         <div><span>Static Routing Design</span></div>
                     </figure>
                 </li>
@@ -81,7 +81,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="{{asset('assets/img/projects/enterprise.png.')}}" alt="Frame Relay & Vlan Design" />
+                        <img src="{{asset('assets/img/projects/enterprise.png')}}" alt="Frame Relay & Vlan Design" />
                         <div><span>Frame Relay & Vlan Design</span></div>
                     </figure>
                 </li>
@@ -89,7 +89,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="{{asset('assets/img/projects/project-9.jpg')}}" alt="Android Project" />
+                        <img src="{{asset('assets/img/projects/app1-1.png')}}" alt="Android Project" />
                         <div><span>Android Project</span></div>
                     </figure>
                 </li>
